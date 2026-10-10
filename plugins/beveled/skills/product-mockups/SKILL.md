@@ -18,7 +18,7 @@ Beveled has two studios:
    - Several app screens with one design → `create_app_store_set`.
    - A collection of work (portfolio pieces, renders, clips) → `create_showreel`. Default template `viewfinder`; `darkroom`, `turntable`, `gallery-walk` and `negative` are other Studio originals. Use `1080x1350` for Instagram, `1080x1920` for Reels/Stories, `1920x1080` for headers.
 3. Check the preview image that comes back. If the device is too big or too small use `zoom`; if the copy is too long, shorten the headline; then render again.
-4. Return the preview and embedded finished file. Video calls may take several minutes; hosts with a fixed one-minute timeout may stop waiting before rendering completes.
+4. Return the preview and the finished file's download link. Links expire within ten minutes and can expire earlier after a restart or cache eviction, so download promptly. Video calls may take several minutes; hosts with a fixed one-minute timeout may stop waiting before rendering completes.
 
 The hosted connector processes supplied content on Cloudflare. Use non-sensitive demo content. Setup and troubleshooting: https://beveled.app/mcp.html. Privacy: https://beveled.app/privacy.html.
 
