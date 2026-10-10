@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "beveled": {
+      "type": "http",
+      "url": "https://mcp.beveled.app/mcp"
+    }
+  }
+}

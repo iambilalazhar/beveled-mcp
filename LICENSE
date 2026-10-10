@@ -1,0 +1,12 @@
+Copyright (c) 2025-2026 Bilal Azhar. All rights reserved.
+
+Beveled is proprietary software. No permission is granted to copy, modify,
+distribute, sublicense or sell its source code without written permission
+from the copyright holder.
+
+The published beveled-mcp package is governed by the license in
+packages/mcp/README.md. Third-party dependencies and assets retain their
+respective licenses; see public/models/CREDITS.md for model attribution.
+
+This notice applies to this version and future versions. It does not change
+the licenses granted for previously released versions.

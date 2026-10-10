@@ -1,0 +1,21 @@
+{
+  "name": "beveled",
+  "displayName": "Beveled",
+  "version": "0.2.0",
+  "description": "Turn screenshots and public webpages into 2D and 3D product mockups, App Store screenshot sets and showreel videos. The hosted connector processes supplied content on Cloudflare and returns a preview plus an embedded file. No account or API key required.",
+  "author": {
+    "name": "iambilalazhar",
+    "url": "https://github.com/iambilalazhar"
+  },
+  "homepage": "https://beveled.app",
+  "repository": "https://github.com/iambilalazhar/beveled-mcp",
+  "license": "UNLICENSED",
+  "keywords": [
+    "mockup",
+    "screenshot",
+    "app-store",
+    "3d",
+    "marketing",
+    "design"
+  ]
+}

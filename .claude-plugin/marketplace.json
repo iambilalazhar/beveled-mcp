@@ -1,0 +1,17 @@
+{
+  "name": "beveled",
+  "owner": {
+    "name": "iambilalazhar",
+    "url": "https://github.com/iambilalazhar"
+  },
+  "metadata": {
+    "description": "Beveled: product mockups from screenshots, for agents."
+  },
+  "plugins": [
+    {
+      "name": "beveled",
+      "source": "./plugins/beveled",
+      "description": "Turn screenshots and public webpages into 2D and 3D product mockups, App Store screenshot sets and videos using the hosted Beveled connector."
+    }
+  ]
+}
