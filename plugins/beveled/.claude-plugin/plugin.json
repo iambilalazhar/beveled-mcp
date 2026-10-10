@@ -17,5 +17,7 @@
     "3d",
     "marketing",
     "design"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://beveled.app/privacy.html"
 }
